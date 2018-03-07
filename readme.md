@@ -1,8 +1,9 @@
-# apify/quick-start
+# apify/classifier
 
-This is a simple Apify act that contains the basic boilerplate
-that you need when creating a new act hosted in a Git repository.
-Fill free to copy it, change it and use it in your acts.
+This is a simple Apify act that classifies its INPUT data & it compound learns from previous calls. 
+It uses Naive & Logistic Regression as way to classify the information.
+
+receives data  
 
 Are you missing anything? Something not clear? Please let us know at support@apify.com
 

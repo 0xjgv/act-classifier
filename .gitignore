@@ -1,0 +1,8 @@
+.idea
+*.log
+node_modules
+yarn.lock
+
+data.json
+
+kv-store-dev/OUTPUT
